@@ -1,0 +1,21 @@
+
+#container {
+    position: relative;
+    border-color: black;   
+    margin: auto;
+    height: 500px;
+    width: 500px;
+    padding: 0;
+    }
+div {
+    border: 1px solid black; 
+}
+.gridRow {
+    border: 1px solid black;
+}
+
+.cell {
+    border: 1px solid pink;
+    height: 50px;
+    width: 50px;
+}
